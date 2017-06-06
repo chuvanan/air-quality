@@ -77,7 +77,7 @@ air.quality <- air.quality[air.quality$qc_name == "Valid", ]
 air.quality$date <- as.POSIXct(air.quality$date, format = "%Y-%m-%d %I:%M %p")
 
 air.quality$date[4790] <- as.POSIXct("2016-03-13 02:00:00")
-air.quality$date[10492] <- as.POSIXct("2016-03-12 02:00:00")
+air.quality$date[10492] <- as.POSIXct("2017-03-12 02:00:00")
 
 ## -----------------------------------------------------------------------------
 ## export data
