@@ -3,7 +3,7 @@
 ### About data ###
 
 Air Quality Data is collected by U.S. Embassy in Hanoi and complied into Air
-Quality Index (AQI) and made available to the public.
+Quality Index (AQI) which is  made available to the public.
 
 For more detail:
 
